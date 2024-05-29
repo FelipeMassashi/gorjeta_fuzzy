@@ -9,6 +9,22 @@ Imagine que você está em um restaurante e deseja calcular a gorjeta apropriada
 ## Lógica Fuzzy
 A lógica fuzzy é uma extensão da lógica booleana tradicional, onde as variáveis podem ter valores entre "verdadeiro" e "falso", expressando assim a incerteza e a imprecisão. Em vez de simplesmente verdadeiro ou falso, as variáveis em lógica fuzzy podem ter valores em um intervalo contínuo de 0 a 1, representando o grau de pertinência a um conjunto.
 
+## Instruções de Uso
+1. **Pré-requisitos:**
+   - Certifique-se de ter Python instalado em seu sistema.
+   - Instale a biblioteca Plotly executando o seguinte comando:
+     ```
+     pip install plotly
+     ```
+
+2. **Rodando o Projeto:**
+   - Clone este repositório em sua máquina.
+   - Navegue até o diretório do projeto.
+   - Execute o seguinte comando no terminal:
+     ```
+     python main.py
+     ```
+
 ## Funcionamento
 1. **Pertinência:**
    - As funções de pertinência são usadas para mapear os valores de entrada (como qualidade do serviço e da comida) em valores de pertinência em um intervalo de 0 a 1.
