@@ -46,6 +46,9 @@ A lógica fuzzy é uma extensão da lógica booleana tradicional, onde as variá
 1. Execute o código Python fornecido em um ambiente que suporte a biblioteca Plotly.
 2. Insira valores para a qualidade do serviço e da comida.
 3. O sistema calculará a gorjeta apropriada com base nos valores fornecidos.
+   
+![image](https://github.com/FelipeMassashi/gorjeta_fuzzy/assets/91070048/cb86fc74-8894-449e-9227-e0f269c26ca8)
+
 
 ## Referências
 - [Introdução à Lógica Fuzzy](https://en.wikipedia.org/wiki/Fuzzy_logic)
